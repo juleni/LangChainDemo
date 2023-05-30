@@ -1,0 +1,12 @@
+{
+  "name": "flowise-runner",
+  "description": "Flowise",
+  "version": "1.0.0",
+  "requires": true,
+  "scripts": {
+    "start": "npx flowise start"
+  },
+  "dependencies": {
+    "flowise": "^1.2.10"
+  }
+}
